@@ -1,0 +1,5 @@
+0 - Empty Space
+1 - Wall
+E - Red enemies follow and shoot at player
+G - Green enemies dont move however shoot in all four directions
+B - Brown enemies dont move and dont shoot ... it's basically a rock lol

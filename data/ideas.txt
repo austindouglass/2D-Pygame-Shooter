@@ -1,0 +1,38 @@
+GAMEPLAY
+----------------
+Green - don't move, shoots in 4 directions
+Brown - doesn't move, breakable (rocks)
+
+Purple - slower movement 'S' shots that do 2 damage? ... either that or faster movement
+Rainbow - moves fast either rams into player [teleports 3 blocks? can't shoot if too fast] or shoots small or quick shots
+Pink - Health Pickups?
+Dark Gray - Black looking enemy that runs away from player (doesn't attack)
+Quick silver - light gray/silver runs around the map (decaying?) drops power up or heart
+Random Enemy - Transforms into other enemies after a certain amount of time
+
+Bosses - black masses, contains accessible enemies inside them
+Button(?) - shoot it and the map changes (versions of maps?)
+
+MENUS
+---------------
+#MAIN MENU IS A LEVEL!
+Play Game -v
+User Level -w
+Create A Level -x
+Settings -y
+Exit Game -z
+
+CREATE A LEVEL
+---------------
+-Use numbers to select block
+-White block placeable (removes necessity for delete)
+-Use arrow keys to place block in a direction (allows player to walk throughout the map without overwriting other blocks)
+
+ONLINE
+--------------
+Server with all user levels sorted by new, popular, title, creator, and version
+Notification system for updates that link to an ad for update
+
+GENERAL
+-------------
+Saving settings info and player stats [create a file manager .py - uses it instead of only loading lvl_ & different directories]
